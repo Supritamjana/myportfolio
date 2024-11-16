@@ -1,0 +1,15 @@
+:root{
+    /* colors */
+    --color-text: #fff;
+    --color-primary: #576bbc;
+    --color-secondary: #19366d7c;
+    --color-dark: #030c18;
+    --color-bg: #051a36;
+
+    /* fonts */
+    --font-roboto: "Roboto";
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
